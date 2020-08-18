@@ -6,3 +6,6 @@ def using_unshift(bourough_in_nyc, new_neighborhood)
   bourough_in_nyc.unshift(new_neighborhood)
 end
 
+def using_pop(continents)
+  continents.pop
+end
